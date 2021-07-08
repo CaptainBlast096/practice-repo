@@ -1,27 +1,23 @@
-## First Name Last Name
+## Jaleel Rogers
 
-### Term Year 
+### Summer 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- (COP 2073) Introduction to Data Science 
 
-- Course 2
-
-- Course 3
-
-- Course 4
+- (Mac 2311) Calculus 1
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Computer Hardware
 
-- Thing 2
+- History/Historical Warfare
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Martial Arts
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/08
