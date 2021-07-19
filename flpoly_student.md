@@ -42,11 +42,12 @@ Credits=c("3", "4")
  
 knitr::kable(classes, "pipe", col.name=c("Prefix", "Number", "Name", "Credits"), align = c ("c", "c", "c", "c")) #knit organizes information into table and aligns it
 
-#Add link to GitHub repo here
 
 ```
-GitHub repo link: https://github.com/CaptainBlast096/Introduction-to-Data-Science.git
-Insert picture under here:
+GitHub repo link: https://github.com/CaptainBlast096/practice-repo.git
+
+![Screenshot of repository is above](https://imgur.com/4WMrNyg.png)
+
 # Problem 2 (30 points)
 
 
